@@ -1,0 +1,22 @@
+{
+  "name": "odo-math",
+  "version": "1.0.0",
+  "description": "Supplementary Mathematical Helpers",
+  "main": "math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/odojs/odo-math.git"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "Thomas Coats",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/odojs/odo-math/issues"
+  },
+  "homepage": "https://github.com/odojs/odo-math"
+}
